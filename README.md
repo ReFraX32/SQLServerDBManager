@@ -1,4 +1,5 @@
 # Documentación Técnica - Sistema de Gestión de Ventas
+![Legacy SQL Preview](https://github.com/user-attachments/assets/1747734e-2e85-4d60-897b-1289c6535f00)
 
 ## Solución: "SalesManagementSystem"
 La solución está estructurada bajo el patrón de arquitectura en tres capas (UI, BLL, DAL) con Visual Studio 2019, utilizando Visual Basic y SQL Server 2008 como base de datos. Se implementa sobre .NET Framework 4.8.
