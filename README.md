@@ -1,4 +1,4 @@
-# Documentación Técnica - Sistema de Gestión de Ventas
+# Sistema de Gestión de Ventas
 ![Legacy SQL Preview](https://github.com/user-attachments/assets/1747734e-2e85-4d60-897b-1289c6535f00)
 
 ## Solución: "SalesManagementSystem"
